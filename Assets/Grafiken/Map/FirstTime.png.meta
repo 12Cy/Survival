@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 8c904edce7d35144eb96951bca0a6733
-timeCreated: 1486257248
+timeCreated: 1486300735
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -85,7 +85,7 @@ TextureImporter:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -93,7 +93,7 @@ TextureImporter:
   - buildTarget: Standalone
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -102,6 +102,14 @@ TextureImporter:
     maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -192,7 +200,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 95
+        y: 96
         width: 32
         height: 32
       alignment: 0
@@ -347,7 +355,7 @@ TextureImporter:
       name: See1
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 32
         width: 32
         height: 32
@@ -448,7 +456,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     outline: []
-  spritePackingTag: 
+  spritePackingTag: a
   userData: 
   assetBundleName: 
   assetBundleVariant: 

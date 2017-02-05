@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Main.unity
+- path: D:/DESKTOP/Informatik/2D Game/UnityProjects/randomUnityProject/Assets/Scene/Main.unity
   isLoaded: 1
   isActive: 1
